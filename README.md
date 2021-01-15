@@ -6,8 +6,6 @@
 
 ![](https://gw.alipayobjects.com/zos/antfincdn/2h1wrrhjqA/76b08afb-0d8c-40d0-b71f-4f9c4ac0014b.png)
 
-
-
 ## 学位上报信息
 
 点击那个「录入」按钮应该直接会跳转到这里，然后重点检查一下姓名拼音是否正确！
@@ -15,8 +13,6 @@
 > "姓名拼音"要求：标准格式样板：张三（Zhang San）、张三三（Zhang Sansan）、欧阳文（Ouyang Wen）、欧阳文文（Ouyang Wenwen），具体可参照《中国人名汉语拼音字母拼写法》，如不正确，请进行修改，该拼音用于打印英文版学位证书，请务必规范填写
 
 ![](https://gw.alipayobjects.com/zos/antfincdn/R4ceN8OM1Q/fe49cff5-a399-42fd-810f-eea327ee0902.png)
-
-
 
 其他按照自己的信息进行填写，填完后点击「提交即可」。
 
@@ -26,11 +22,7 @@
 
 ![](https://gw.alipayobjects.com/zos/antfincdn/lxz8DPfOD9/522dc206-4903-42ce-a6b4-d7a2e6d4700a.png)
 
-
-
 **注意事项** ： 工业所的同学请找叶晓云老师审核（可以在钉钉上戳一下），计科的同学填完即可。
-
-
 
 ## 学位论文信息
 
@@ -72,15 +64,11 @@
 
 ![](https://gw.alipayobjects.com/zos/antfincdn/IC0%26IEyi4F/48cf0b0e-0a7d-4294-b2be-99639ceeac2f.png)
 
-
-
 ### 专业实践（应该仅专硕需要）
 
 按内容正常填写即可。其中需要写一份 5000 字的专业实践报告。
 
 ![](https://gw.alipayobjects.com/zos/antfincdn/2Lnnx7u0Zf/d37bd2d0-cab4-4130-83e5-2253df8b6c94.png)
-
-
 
 不负责任的小贴士（真的没有官方说明）：
 
@@ -93,13 +81,9 @@
 
 085212 软件工程
 
-
-
 注意事项：
 
 1. 和预答辩一样，同样需要导师填写意见！需要导师填写意见！
-
-
 
 完成后等待导师审核。
 
@@ -118,17 +102,19 @@
 - [ ] 【专硕需要】专业实践（需要填意见）
 - [ ] 论文审核
 
+### 打印材料
+
 请确认上述四项均审核完毕，完成上述整个流程后，打印两个东西：
 
 1. 《浙江大学硕士学位论文答辩申请报告》，打印完后需要导师签字；
 2. 学位论文；
 
-其中《申请报告》会在陈老师那边留档，学位论文她只是检查下格式。
+其中《申请报告》会在陈老师那边留档，学位论文她只是简单翻翻,检查下格式。
 
 ![](https://gw.alipayobjects.com/zos/antfincdn/3uRLCoEP9P/bc759ab1-6c88-4f8f-833b-16342a6ca7ce.png)
 
+### 递交
+
 送到 曹主 205B，陈丹老师处。
 
-
-
-DDL 是 1.18 日，尽量早点去，应该会很多人……
+DDL 是 1.18 日，尽量早点去，很多人……
